@@ -18,9 +18,9 @@
 
 <p style="display:flex;">
 
- <img src="https://github-readme-stats.vercel.app/api?username=faizallmaullana&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117" width="49%">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=faizallmaullana&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117" width="49%">-->
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizallmaullana&theme=dark&bg_color=0d1117" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizallmaullana&theme=dark&bg_color=0d1117" width="49%">
 
  </p>
 
