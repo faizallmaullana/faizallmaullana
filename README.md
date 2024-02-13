@@ -37,7 +37,7 @@
 
 
 [![Github URL](https://img.shields.io/twitter/url?color=24292e&label=faizallmaullana&logo=github&style=flat-square&url=https://github.com/faizallmaullana)](https://github.com/faizallmaullana)
-[![Linkedin URL](https://img.shields.io/twitter/url?color=0072b1&label=Faizal+Maulana&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/faizal-maulana-7913a0248/)](https://www.linkedin.com/in/faizal-maulana-7913a0248/)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=0072b1&label=Faizal+Maulana&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/faizallmaullana/)](https://www.linkedin.com/in/faizallmaullana/)
 [![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=paisaltanjung.id&logo=instagram&style=flat-square&url=https://www.instagram.com/paisaltanjung.id)](https://www.instagram.com/paisaltanjung.id)
 [![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=faizalmaulana.dev@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)](mailto:faizalmaulana.dev@gmail.com)
 
