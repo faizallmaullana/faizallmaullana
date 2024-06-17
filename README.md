@@ -1,4 +1,5 @@
 # Hello 👋, My Name Is Faizal Maulana
+## Software Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=FD1111&random=false&width=435&lines=Whenever+I'm+about+to+do+something%2C;I+think%2C+%22Would+an+idiot+do+that%3F%22;And+if+they+would%2C;I+do+not+do+that+thing.)](https://git.io/typing-svg)
 
@@ -6,11 +7,6 @@
 
 - Gunadarma University
 - I'm fluent in Indonesian and English
- 
-## 🧑‍💻 <strong>What i am interested in</strong>
-- Web Developer (Django, Vue JS, MySQL, Golang, Etc) <br>
-- Cloud Computing
-- Networking
 
 ## 📃 My Stats
 
