@@ -9,8 +9,8 @@ I created this documentation to save time in my daily use, so I don't have to go
 ## List of Content
 
 ### Containerization
-[Summary Containerization](Containerization/index.md)
-- [K3s - Container Orchestration](Containerization/K3s/index.md)
+[Summary Containerization](Conteinerization/index.md)
+- [K3s - Container Orchestration](Conteiinerization/K3s/index.md)
 
 ### Network
 - Nginx
