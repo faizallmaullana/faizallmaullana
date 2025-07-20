@@ -1,29 +1,24 @@
-Hello. My name is
-# Faizal Maulana
+# Personal Documentation
 
-### Core Team Web at Google Developer Group on Campus Gunadarma
+### Faizal Maulana - Software Engineer
+
+I wrote this documentation for save my dialy so i dont need go to hub, or ai bot, 
+
+## List of Content
+
+### Operation
+[Summary Operation](Operation/index.md)
+- [K3s - Container Orchestration](Operation/K3s/index.md)
+- Nginx
+
+### Media
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=FD1111&random=false&width=435&lines=Whenever+I'm+about+to+do+something%2C;I+think%2C+%22Would+an+idiot+do+that%3F%22;And+if+they+would%2C;I+do+not+do+that+thing.)](https://git.io/typing-svg)
 
-## 📃 My Stats
+
+
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizallmaullana&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117" />
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=faizallmaullana&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117" width="49%">-->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizallmaullana&theme=dark&bg_color=0d1117" width="49%">
-
- </div>
-
-![](https://activity-graph.herokuapp.com/graph?username=faizallmaullana&theme=gotham)
-
-</div>
-
-<div align="center">
-
----
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p2OTltZ3AwNTM1ZHQ3c2h1YXp5YmVha3NuYmh0YWtxeGhrdG83YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i79P9wUfnmPyo/giphy.gif"  width=60% height=40%>
 <h5><i>“Five minutes ahead of schedule. Right on schedule.”</i></h5>
