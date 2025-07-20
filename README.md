@@ -2,7 +2,7 @@
 
 ### Faizal Maulana - Software Engineer
 
-I wrote this documentation for save my dialy so i dont need go to hub, or ai bot, 
+I created this documentation to save time in my daily use, so I don't have to go to the hub or rely on AI bots.
 
 ## List of Content
 
