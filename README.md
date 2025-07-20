@@ -25,7 +25,7 @@ Hello. My name is
 
 ---
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM3eDI2bW14eHhmZzM2MXo4YjRwbHRvdHY0a3Z4cDkyY21iY2RwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/foreVtObrjud668R9j/giphy.gif"  width=60% height=40%>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p2OTltZ3AwNTM1ZHQ3c2h1YXp5YmVha3NuYmh0YWtxeGhrdG83YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i79P9wUfnmPyo/giphy.gif"  width=60% height=40%>
 <h5><i>“Five minutes ahead of schedule. Right on schedule.”</i></h5>
 
 
