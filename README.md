@@ -10,7 +10,7 @@ I created this documentation to save time in my daily use, so I don't have to go
 
 ### Containerization
 [Summary Containerization](Conteinerization/index.md)
-- [K3s - Container Orchestration](Conteiinerization/K3s/index.md)
+- [K3s - Container Orchestration](Conteinerization/K3s/index.md)
 
 ### Network
 - Nginx
