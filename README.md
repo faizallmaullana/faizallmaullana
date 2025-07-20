@@ -5,7 +5,6 @@
 I created this documentation to save time in my daily use, so I don't have to go to the hub or rely on AI bots.
 
 <br>
-<br>
 
 ## List of Content
 
@@ -15,6 +14,8 @@ I created this documentation to save time in my daily use, so I don't have to go
 - Nginx
 
 ### Media
+
+<br>
 
 <div align="center">
 
